@@ -23,6 +23,7 @@
 | MiniGPT-4 |  | [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) | https://github.com/Vision-CAIR/MiniGPT-4 | https://huggingface.co/spaces/Vision-CAIR/minigpt4 |
 | KOSMOS-1 | Microsoft | [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045) | https://github.com/microsoft/unilm |  |
 | MM-REACT | Microsoft | [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) | https://github.com/microsoft/MM-REACT | https://huggingface.co/spaces/microsoft-cognitive-service/mm-react |
+| Visual ChatGPT | Microsoft | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | https://github.com/microsoft/visual-chatgpt |  |
 | VisionLLM | OpenGVLab | [VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/abs/2305.11175) | https://github.com/OpenGVLab/VisionLLM |  |
 | InternGPT  | OpenGVLab | [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/abs/2305.05662) | https://github.com/OpenGVLab/InternGPT | https://igpt.opengvlab.com/ |
 | VisualGLM-6B | 清华&智谱AI |  | https://github.com/THUDM/VisualGLM-6B | https://huggingface.co/spaces/lykeven/visualglm-6b |
@@ -32,4 +33,8 @@
 ## Benchmarking LLMs
 [中文通用大模型综合性基准SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) \
 [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
+
+## Paper
+[Zhang Z, Zhang A, Li M, et al. Multimodal chain-of-thought reasoning in language models[J]. arXiv preprint arXiv:2302.00923, 2023.](https://arxiv.org/pdf/2302.00923.pdf)
+
 
