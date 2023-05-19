@@ -35,6 +35,18 @@
 [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
 
 ## Paper
-[Zhang Z, Zhang A, Li M, et al. Multimodal chain-of-thought reasoning in language models[J]. arXiv preprint arXiv:2302.00923, 2023.](https://arxiv.org/pdf/2302.00923.pdf)
+[Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) \
+[Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) \
+[Pali: A jointly-scaled multilingual language-image model](https://arxiv.org/pdf/2209.06794.pdf)
+[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) \
+[Multimodal chain-of-thought reasoning in language models](https://arxiv.org/pdf/2302.00923.pdf) \
+[Llama: Open and efficient foundation language models](https://arxiv.org/abs/2302.13971v1) \
+[Language is not all you need: Aligning perception with language models](https://arxiv.org/abs/2302.14045) \
+[Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671) \
+[Mm-react: Prompting chatgpt for multimodal reasoning and action](https://arxiv.org/abs/2303.11381) \
+[Visual instruction tuning](https://arxiv.org/abs/2304.08485) \
+[Minigpt-4: Enhancing vision-language understanding with advanced large language models](https://arxiv.org/abs/2304.10592) \
+[InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/abs/2305.05662) \
+[VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/abs/2305.11175)
 
 
