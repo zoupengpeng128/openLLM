@@ -13,6 +13,9 @@
 | MOSS-16B | 复旦 |  | https://github.com/OpenLMLab/MOSS |  |
 | Vicuna-13B |  |  | https://github.com/lm-sys/FastChat | https://chat.lmsys.org/ |
 | Alpaca-13b |  |  | https://github.com/tatsu-lab/stanford_alpaca | https://alpaca-ai.ngrok.io/ |
+| Chinese-LLaMA-Alpaca |  |  | https://github.com/ymcui/Chinese-LLaMA-Alpaca | |
+| Chinese-ChatLLaMA |  |  | https://github.com/chenfeng357/open-Chinese-ChatLLaMA | |
+
 
 
 ## Multimodal LLM
